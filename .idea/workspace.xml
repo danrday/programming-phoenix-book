@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dc0fa730-e6cc-4269-aec8-66730bcaebe5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1ZPUqL4idGNm2lORJFa5VqwHWGM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dc0fa730-e6cc-4269-aec8-66730bcaebe5" name="Default Changelist" comment="" />
+      <created>1584740412482</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584740412482</updated>
+      <workItem from="1584740417426" duration="556000" />
+      <workItem from="1584741232192" duration="2048000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="380" y="255" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1584741193254">
+      <screen x="4" y="23" width="1676" height="1027" />
+    </state>
+    <state x="380" y="255" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/4.23.1676.1027@4.23.1676.1027" timestamp="1584741193254" />
+    <state x="201" y="151" key="SettingsEditor" timestamp="1584741147776">
+      <screen x="4" y="23" width="1676" height="1027" />
+    </state>
+    <state x="201" y="151" key="SettingsEditor/4.23.1676.1027@4.23.1676.1027" timestamp="1584741147776" />
+    <state x="182" y="258" key="com.intellij.ide.util.TipDialog" timestamp="1584741233779">
+      <screen x="4" y="23" width="1676" height="1027" />
+    </state>
+    <state x="182" y="258" key="com.intellij.ide.util.TipDialog/4.23.1676.1027@4.23.1676.1027" timestamp="1584741233779" />
+  </component>
+</project>
