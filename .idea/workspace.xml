@@ -1,13 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dc0fa730-e6cc-4269-aec8-66730bcaebe5" name="Default Changelist" comment="" />
+    <list default="true" id="dc0fa730-e6cc-4269-aec8-66730bcaebe5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/comeonin.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/dialyxir.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/pbkdf2_elixir.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/rumbl.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/rumbl.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/rumbl/accounts.ex" beforeDir="false" afterPath="$PROJECT_DIR$/lib/rumbl/accounts.ex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/rumbl/accounts/user.ex" beforeDir="false" afterPath="$PROJECT_DIR$/lib/rumbl/accounts/user.ex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/rumbl_web/controllers/user_controller.ex" beforeDir="false" afterPath="$PROJECT_DIR$/lib/rumbl_web/controllers/user_controller.ex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/rumbl_web/router.ex" beforeDir="false" afterPath="$PROJECT_DIR$/lib/rumbl_web/router.ex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mix.exs" beforeDir="false" afterPath="$PROJECT_DIR$/mix.exs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mix.lock" beforeDir="false" afterPath="$PROJECT_DIR$/mix.lock" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1ZPUqL4idGNm2lORJFa5VqwHWGM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -15,9 +32,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -31,6 +49,7 @@
       <updated>1584740412482</updated>
       <workItem from="1584740417426" duration="556000" />
       <workItem from="1584741232192" duration="2048000" />
+      <workItem from="1584901069946" duration="576000" />
     </task>
     <servers />
   </component>
@@ -42,13 +61,13 @@
       <screen x="4" y="23" width="1676" height="1027" />
     </state>
     <state x="380" y="255" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/4.23.1676.1027@4.23.1676.1027" timestamp="1584741193254" />
-    <state x="201" y="151" key="SettingsEditor" timestamp="1584741147776">
+    <state x="201" y="150" key="SettingsEditor" timestamp="1584901355014">
       <screen x="4" y="23" width="1676" height="1027" />
     </state>
-    <state x="201" y="151" key="SettingsEditor/4.23.1676.1027@4.23.1676.1027" timestamp="1584741147776" />
-    <state x="182" y="258" key="com.intellij.ide.util.TipDialog" timestamp="1584741233779">
+    <state x="201" y="150" key="SettingsEditor/4.23.1676.1027@4.23.1676.1027" timestamp="1584901355014" />
+    <state x="182" y="258" key="com.intellij.ide.util.TipDialog" timestamp="1584901356231">
       <screen x="4" y="23" width="1676" height="1027" />
     </state>
-    <state x="182" y="258" key="com.intellij.ide.util.TipDialog/4.23.1676.1027@4.23.1676.1027" timestamp="1584741233779" />
+    <state x="182" y="258" key="com.intellij.ide.util.TipDialog/4.23.1676.1027@4.23.1676.1027" timestamp="1584901356231" />
   </component>
 </project>
