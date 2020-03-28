@@ -2,18 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dc0fa730-e6cc-4269-aec8-66730bcaebe5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/comeonin.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/dialyxir.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/pbkdf2_elixir.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/rumbl.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/rumbl.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/rumbl/accounts.ex" beforeDir="false" afterPath="$PROJECT_DIR$/lib/rumbl/accounts.ex" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lib/rumbl/accounts/user.ex" beforeDir="false" afterPath="$PROJECT_DIR$/lib/rumbl/accounts/user.ex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/rumbl_web/controllers/user_controller.ex" beforeDir="false" afterPath="$PROJECT_DIR$/lib/rumbl_web/controllers/user_controller.ex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/rumbl_web/router.ex" beforeDir="false" afterPath="$PROJECT_DIR$/lib/rumbl_web/router.ex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mix.exs" beforeDir="false" afterPath="$PROJECT_DIR$/mix.exs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mix.lock" beforeDir="false" afterPath="$PROJECT_DIR$/mix.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +39,7 @@
       <updated>1584740412482</updated>
       <workItem from="1584740417426" duration="556000" />
       <workItem from="1584741232192" duration="2048000" />
-      <workItem from="1584901069946" duration="576000" />
+      <workItem from="1584901069946" duration="937000" />
     </task>
     <servers />
   </component>
